@@ -51,12 +51,10 @@ education:
     date_start: 2025-08-25
     date_end: 2026-12-31
     summary: |
-      GPA: N/A
-
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Embedded Real-Time Systems
+      - Fundamentals of Manipulation
+      - Space Robotics
   - area: BS/MS Electrical and Computer Engineering
     institution: University of California, San Diego
     date_start: 2025-03-31
@@ -65,9 +63,9 @@ education:
       GPA: N/A
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Sensing and Estimation for Robotics
+      - Path Planning and Optimal Control
+      - Deep Generative Models
   - area: BS Electrical and Computer Engineering
     institution: University of California, San Diego
     date_start: 2021-09-18
@@ -76,9 +74,9 @@ education:
       GPA: 3.8/4.0
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Pattern Recognition and Machine Learning
+      - Advanced Digital Design
+      - Linear Control Systems
 work:
   - position: Electrical Engineering Intern
     company_name: Second Order Effects
@@ -91,10 +89,21 @@ work:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
+  - position: Summer Research Intern
+    company_name: Engineers for Exploration
+    company_url: 'https://e4e.ucsd.edu/'
+    company_logo: 'e4e_website-no-e4e.png'
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      Responsibilities include:
+      - Migrated infrastructure to a new data center
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: Undergraduate Tutor / Reader
+    company_name: Jacobs School of Engineering
+    company_url: 'https://jacobsschool.ucsd.edu/'
+    company_logo: 'UCSDLogo_JSOE_BlueGOld_0_0.png'
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -140,9 +149,11 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
+  - name: Hindi
+    percent: 100
+  - name: Marathi
     percent: 75
-  - name: Portuguese
+  - name: German
     percent: 25
 
 # Awards.
