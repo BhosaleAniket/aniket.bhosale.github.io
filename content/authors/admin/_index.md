@@ -46,7 +46,7 @@ interests:
   - AI / ML
 
 education:
-  - area: MSc Electrical and Computer Engineering
+  - area: MS Electrical and Computer Engineering
     institution: Carnegie Mellon University
     date_start: 2025-08-25
     date_end: 2026-12-31
@@ -57,10 +57,21 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Electrical and Computer Engineering
+  - area: BS/MS Electrical and Computer Engineering
+    institution: University of California, San Diego
+    date_start: 2025-03-31
+    date_end: 2025-06-15
+    summary: |
+      GPA: N/A
+
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: BS Electrical and Computer Engineering
     institution: University of California, San Diego
     date_start: 2021-09-18
-    date_end: 2025-03-25
+    date_end: 2025-03-21
     summary: |
       GPA: 3.8/4.0
       
@@ -69,10 +80,10 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
+  - position: Electrical Engineering Intern
+    company_name: Second Order Effects
+    company_url: 'https://soeffects.com/'
+    company_logo: 'SOE_logo.svg'
     date_start: 2021-01-01
     date_end: ''
     summary: |2-
@@ -168,4 +179,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Aniket Bhosale is a Master's student studying Electrical Engineering at Carnegie Mellon university. His interests include autonomous systems, robotics, embedded systems, machines learning, and artifical intelligence. He recently graduated from UC San Diego with a Bachelor's degree in Electrical Engineering and a minor in Data Science.
