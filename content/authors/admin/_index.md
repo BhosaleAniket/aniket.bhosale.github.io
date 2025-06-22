@@ -60,7 +60,7 @@ education:
     date_start: 2025-03-31
     date_end: 2025-06-15
     summary: |
-      GPA: N/A
+      GPA: 3.9/4.0
 
       Courses included:
       - Sensing and Estimation for Robotics
