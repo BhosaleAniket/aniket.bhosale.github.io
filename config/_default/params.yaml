@@ -37,6 +37,11 @@ header:
     logo:
       text: "Aniket Bhosale"
 
+# Site icon
+icon:
+  pack: "fas"
+  name: "graduation-cap"  # FontAwesome icon name
+
 # Site footer
 footer:
   copyright:

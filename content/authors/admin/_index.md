@@ -82,7 +82,7 @@ work:
     company_name: Second Order Effects
     company_url: 'https://soeffects.com/'
     company_logo: 'SOE_logo.svg'
-    date_start: 2021-01-01
+    date_start: 2024-06-15
     date_end: ''
     summary: |2-
       Responsibilities include:
@@ -93,8 +93,8 @@ work:
     company_name: Engineers for Exploration
     company_url: 'https://e4e.ucsd.edu/'
     company_logo: 'e4e_website-no-e4e.png'
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2023-07-03
+    date_end: 2023-09-07
     summary: |
       Responsibilities include:
       - Migrated infrastructure to a new data center
