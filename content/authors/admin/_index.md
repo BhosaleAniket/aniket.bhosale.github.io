@@ -84,9 +84,9 @@ work:
     date_end: '2025-08-22'
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Owning the development of an in-house, offline, and live text transcription tool for lab efforts in ITAR compliant projects.
+      - Being the RE for the test software on an avionics box testing campaign.
+      - Driving the development of the test software arachitecture for a flight SW system, and supporting Embedded Linux development efforts for flight harwdare. 
   - position: Electrical Engineering Intern
     company_name: Second Order Effects
     company_url: https://soeffects.com/
