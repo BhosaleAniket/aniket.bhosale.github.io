@@ -81,7 +81,7 @@ work:
   - position: Electrical Engineering Intern
     company_name: Second Order Effects
     company_url: 'https://soeffects.com/'
-    company_logo: 'SOE_logo.svg'
+    company_logo: media/SOE_logo.svg
     date_start: 2024-06-15
     date_end: ''
     summary: |2-
@@ -92,7 +92,7 @@ work:
   - position: Summer Research Intern
     company_name: Engineers for Exploration
     company_url: 'https://e4e.ucsd.edu/'
-    company_logo: 'e4e_website-no-e4e.png'
+    company_logo: media/e4e_website-no-e4e.png
     date_start: 2023-07-03
     date_end: 2023-09-07
     summary: |
@@ -103,7 +103,7 @@ work:
   - position: Undergraduate Tutor / Reader
     company_name: Jacobs School of Engineering
     company_url: 'https://jacobsschool.ucsd.edu/'
-    company_logo: 'UCSDLogo_JSOE_BlueGOld_0_0.png'
+    icon: media/UCSDLogo_JSOE_BlueGOld_0_0.png
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
