@@ -33,8 +33,6 @@ profiles:
   - icon: at-symbol
     url: 'mailto:aniket18.bhosale@gmail.com'
     label: E-mail Me
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/BhosaleAniket
   - icon: brands/linkedin
@@ -81,9 +79,20 @@ work:
   - position: Electrical Engineering Intern
     company_name: Second Order Effects
     company_url: https://soeffects.com/
-    company_logo: "custom/SOE_logo"
+    icon: "custom/SOE_logo"
+    date_start: 2025-06-07
+    date_end: '2025-08-22'
+    summary: |2-
+      Responsibilities include:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: Electrical Engineering Intern
+    company_name: Second Order Effects
+    company_url: https://soeffects.com/
+    icon: "custom/SOE_logo"
     date_start: 2024-06-15
-    date_end: ''
+    date_end: '2024-09-20'
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -165,7 +174,7 @@ awards:
     url: https://www.ece.ucsd.edu/undergraduate/booker-award
     date: '2025-06-03'
     awarder: UCSD ECE Department
-    icon: assets\media\UCSDLogo_JSOE_BlueGold_0_0.png
+    icon: "custom/UCSDLogo_JSOE_BlueGold_0_0"
     summary: |
       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
   - title: Provost Honors
@@ -182,4 +191,4 @@ awards:
 
 ## About Me
 
-Aniket Bhosale is a Master's student studying Electrical Engineering at Carnegie Mellon university. His interests include autonomous systems, robotics, embedded systems, machines learning, and artifical intelligence. He recently graduated from UC San Diego with a Bachelor's degree in Electrical Engineering and a minor in Data Science.
+Aniket Bhosale is a Master's student studying Electrical Engineering at Carnegie Mellon University. His interests include autonomous systems, robotics, embedded systems, machines learning, and artifical intelligence. He recently graduated from UC San Diego with a Bachelor's degree in Electrical Engineering and a minor in Data Science.
