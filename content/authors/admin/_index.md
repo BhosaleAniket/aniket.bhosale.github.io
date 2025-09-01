@@ -80,8 +80,8 @@ education:
 work:
   - position: Electrical Engineering Intern
     company_name: Second Order Effects
-    company_url: 'https://soeffects.com/'
-    company_logo: media/SOE_logo.svg
+    company_url: https://soeffects.com/
+    company_logo: "custom/SOE_logo"
     date_start: 2024-06-15
     date_end: ''
     summary: |2-
